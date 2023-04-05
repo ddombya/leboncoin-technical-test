@@ -1,0 +1,22 @@
+.received {
+  text-align: left;
+  border: 1px solid rgb(239, 243, 244);
+}
+
+.send {
+  text-align: right;
+  border: 1px solid rgb(29, 155, 240);
+}
+
+.authorName {
+  margin-left: 20px;
+}
+
+.msg {
+  padding: 8px;
+  border-radius: 4;
+  margin-bottom: 4;
+  display: "inline-block";
+  word-break: "break-word";
+  font-size: 14px;
+}
